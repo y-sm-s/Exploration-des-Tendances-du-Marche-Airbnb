@@ -1,4 +1,4 @@
-# Projet 3 : Exploration des Tendances du Marché Airbnb
+[# Projet 3 : Exploration des Tendances du Marché Airbnb](https://github.com/y-sm-s/Exploration-des-Tendances-du-Marche-Airbnb/blob/main/Exploration%20des%20Tendances%20du%20Marche%CC%81%20Airbnb.ipynb)
 
 ## Description  
 Ce projet vise à analyser les données des annonces Airbnb à New York City, qui propose une variété de logements temporaires pour les voyageurs. L'objectif est de fournir des informations précieuses à une start-up immobilière sur le marché des locations à court terme, en se concentrant spécifiquement sur les chambres privées.
